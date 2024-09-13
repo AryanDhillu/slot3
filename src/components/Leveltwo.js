@@ -257,7 +257,7 @@ const Levelone = ({ username, rollnum, initialScore, timeLeft }) => {
                 <h1 className="level-indicator  animate__animated animate__fadeInLeft">Cast below spell to proceed:</h1>
                 
                 <h2 className=' animate__animated animate__fadeInRight'> 
-                Have you ever heard Vigenère (key: HackTheBot): Getywh
+                Have you ever heard Vigenère (key: HackTheBot): Getywhc
                 </h2>
                 
                 <br/>
